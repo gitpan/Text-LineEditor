@@ -1,0 +1,22 @@
+
+Text::LineEditor 
+
+
+This module implements a -very- simple editor like Berkley mail used
+to use.
+
+
+Note:
+   Only change since 0.01 is fixing a rather vital typo in the
+   Makefile, and addition of some Copyright notices.
+
+
+Contacting me:  gossamer@tertius.net.au is best.
+
+
+ObLegalStuff:
+   Copyright (c) 1998 Bek Oberin. All rights reserved. This program is
+   free software; you can redistribute it and/or modify it under the
+   same terms as Perl itself.
+
+
